@@ -1,7 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Mashed Tails",
+	"description": "",
 	"restart":false,
-	"runsGlobally": false,
-	"color": [170, 0, 255]
+	"color": [224, 145, 82]
 }
